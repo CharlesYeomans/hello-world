@@ -4,9 +4,4 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 
 This repository is built step by step in the tutorial.
 
-it now includes steps for github
-
-now we are looking at using Pull
-
-Well this is for a new Branch update-readme :-)
-
+Starting again, this is an update in GITHUB, deleting previous work
