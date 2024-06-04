@@ -5,3 +5,4 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This repository is built step by step in the tutorial.
 
 Starting again, this is an update in GITHUB, deleting previous work
+Now we will update with this as PULL instead of Fetch Merge.
