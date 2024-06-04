@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 
 Starting again, this is an update in GITHUB, deleting previous work
 Now we will update with this as PULL instead of Fetch Merge.
+
+Now updating on local GIT using git-branch-2
